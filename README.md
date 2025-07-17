@@ -1,2 +1,2 @@
 # Dark-Horse
-Dark Horse is a Python Script created for users
+Dark Horse is a software created for users
